@@ -30,7 +30,7 @@ I've been experimenting and have achieved step 1 via BackdropFilter with imagefi
 
 
 - [ ] Nuemorphic like effects - these are typically easily done with clever use of inner and outer shadows. putting a lighter inner shadow color facing the light source, and a shadow on the opposite side you get a convex button. Inverting the shadows gives you concave(button press)
-- [ ] Gooey Liquid / Surface tension pull effect. Save this for last as i dont think its all that important.(look into SDF Raymarching)
+- [ ] Gooey Liquid / Surface tension pull effect. Save this for last as i dont think its all that important.[SDF RAYMARCHING](https://www.youtube.com/watch?v=5J-0sy2pu_8)
 
  <img src="https://github.com/user-attachments/assets/d03f71bd-356f-4004-bdff-98fec38fb8c9" width="300"/>
 
